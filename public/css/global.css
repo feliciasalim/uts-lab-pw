@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-share-tech: "Share Tech";
+
+  /* Colors */
+  --color-white: #fff;
+  --color-brown: #920024;
+  --color-gray-100: #1e1e1e;
+  --color-gray-200: rgba(30, 30, 30, 0.5);
+  --color-thistle: #d4acb6;
+
+}
